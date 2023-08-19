@@ -33,5 +33,4 @@ func main() {
 		fmt.Println(exitcode)
 		fmt.Println(err)
 	}
-
 }
